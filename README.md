@@ -2,6 +2,8 @@
 
 This project demonstrates the process of loading and transforming CSV data using MySQL and creating an interactive sales dashboard using Tableau for an E-Commerce company.
 
+![alt text](https://github.com/tola923/E_Commerce_Project/blob/master/E-Commerce%20Dashboard.png)
+
 ### Key Steps
 * Data Transformation: Load CSV data into MySQL with optimised schema and employ SQL query for cleaning and aggregation.
 * Tableau Visualisation: Export and connect transformed data to Tableau for dynamic visual representation.
