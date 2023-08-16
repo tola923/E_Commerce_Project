@@ -9,7 +9,7 @@ This project demonstrates the process of loading and transforming CSV data using
 * Insightful Analytics: Gain insights into sales trends, top products, customer behavior, and revenue metrics.
 
 ### Folder Structure
-* Sales.csv: Raw sales CSV data.
+* Sales.xlsx: Raw sales CSV data.
 * Sales Export.csv: CSV export of cleaned and transformed data.
 * script for sales dataset.sql: SQL script to create, load and transform sales CSV data.
-* E-Commerce Dashboard: Screenshot of the dashboard for reference.
+* E-Commerce Dashboard.png: Screenshot of the dashboard for reference.
